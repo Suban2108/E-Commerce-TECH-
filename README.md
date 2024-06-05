@@ -1,4 +1,4 @@
-# E-COMMERCE WEBSITE
+# E-COMMERCE WEBSITE{Worked in a group of 3 to create this website}
 # I.S.TECH {INNOVATE SPHERE TECH DEVICES}📱 💻 🖥️
 
 # TOOLS:
